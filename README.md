@@ -27,29 +27,36 @@
 ## Technologies 
 
 
-<!-- Microsoft -->
-<a href="https://www.microsoft.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoft.svg"
-       height="40" alt="Microsoft">
-</a>
-<!-- OpenAI -->
-<a href="https://openai.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg"
-       height="40" alt="OpenAI">
+
+<p align="center">
+  <a href="https://www.microsoft.com/" title="Microsoft">
+    <img src="https://learn.microsoft.com/el-gr/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg"
+         height="40" alt="Microsoft">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.amd.com/">
-    <img src="https://cdn.simpleicons.org/amd/ED1C24" height="40" alt="AMD"> 
+  <a href="https://openai.com/" title="OpenAI">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg"
+         height="40" alt="OpenAI">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.intel.com/">
-    <img src="https://cdn.simpleicons.org/intel/0071C5" height="40" alt="Intel"> 
+  <a href="https://www.amd.com/" title="AMD">
+    <img src="https://cdn.simpleicons.org/amd/ED1C24"
+         height="40" alt="AMD">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.wacom.com/">
-    <img src="https://cdn.simpleicons.org/wacom/737373" height="40" alt="Wacom">
+  <a href="https://www.intel.com/" title="Intel">
+    <img src="https://cdn.simpleicons.org/intel/0071C5"
+         height="40" alt="Intel">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.wacom.com/" title="Wacom">
+    <img src="https://cdn.simpleicons.org/wacom/737373"
+         height="40" alt="Wacom">
   </a>
 </p>
+
+<h1 align="center">Kodanima 2D</h1>
+
 
 <h1 align="center">Kodanima 2D</h1>
 
