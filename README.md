@@ -32,22 +32,18 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoft.svg"
        height="40" alt="Microsoft">
 </a>
-
 <!-- OpenAI -->
 <a href="https://openai.com/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg"
        height="40" alt="OpenAI">
-  
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.amd.com/">
-    <img src="https://cdn.simpleicons.org/amd/ED1C24" height="40" alt="AMD">
-    
+    <img src="https://cdn.simpleicons.org/amd/ED1C24" height="40" alt="AMD"> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.intel.com/">
-    <img src="https://cdn.simpleicons.org/intel/0071C5" height="40" alt="Intel">
-    
+    <img src="https://cdn.simpleicons.org/intel/0071C5" height="40" alt="Intel"> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.wacom.com/">
