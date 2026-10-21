@@ -78,16 +78,7 @@ The build command may vary between project versions.
 
 The project is under development. Not every planned media format or feature is necessarily complete or available in every version. Graphics acceleration, graphics tablet support, and media export depend on the implementation and the runtime environment.
 
-## Reporting Issues
 
-When reporting a bug, please include:
-
-- Windows version.
-- Processor (Intel or AMD and model, if known).
-- Compiler used.
-- Build command.
-- Full error message.
-- Steps required to reproduce the issue.
 
 ## License
 
