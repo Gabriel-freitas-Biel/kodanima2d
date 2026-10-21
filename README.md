@@ -29,7 +29,6 @@
 
 <p align="center">
   <a href="https://www.microsoft.com/" title="Microsoft"><img src="https://learn.microsoft.com/el-gr/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg" height="36" alt="Microsoft"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="36" height="36" alt="OpenAI"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.amd.com/" title="AMD"><img src="https://cdn.simpleicons.org/amd/ED1C24" width="36" height="36" alt="AMD"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.intel.com/" title="Intel"><img src="https://cdn.simpleicons.org/intel/0071C5" width="36" height="36" alt="Intel"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.wacom.com/" title="Wacom"><img src="https://cdn.simpleicons.org/wacom/737373" width="36" height="36" alt="Wacom"></a>
