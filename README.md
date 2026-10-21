@@ -27,31 +27,25 @@
 ## Technologies 
 
 
-
 <p align="center">
   <a href="https://www.microsoft.com/" title="Microsoft">
-    <img src="https://learn.microsoft.com/el-gr/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg"
-         height="40" alt="Microsoft">
+    <img src="https://learn.microsoft.com/el-gr/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg" height="38" alt="Microsoft">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://openai.com/" title="OpenAI">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg"
-         height="40" alt="OpenAI">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="38" alt="OpenAI">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.amd.com/" title="AMD">
-    <img src="https://cdn.simpleicons.org/amd/ED1C24"
-         height="40" alt="AMD">
+    <img src="https://cdn.simpleicons.org/amd/ED1C24" height="38" alt="AMD">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.intel.com/" title="Intel">
-    <img src="https://cdn.simpleicons.org/intel/0071C5"
-         height="40" alt="Intel">
+    <img src="https://cdn.simpleicons.org/intel/0071C5" height="38" alt="Intel">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.wacom.com/" title="Wacom">
-    <img src="https://cdn.simpleicons.org/wacom/737373"
-         height="40" alt="Wacom">
+    <img src="https://cdn.simpleicons.org/wacom/737373" height="38" alt="Wacom">
   </a>
 </p>
 
