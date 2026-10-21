@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="k.png" width="120" alt="Kodanima">
+
+# Kodanima 2D
+
+<img src="b1.png" width="800" alt="Kodanima - captura 1">
+
+<img src="b2.png" width="800" alt="Kodanima - captura 2">
+
+</div>
 [README.md](https://github.com/user-attachments/files/33752070/README.md)
 # Kodanima 2D
 
