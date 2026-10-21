@@ -9,6 +9,7 @@
 <img src="b2.png" width="800" alt="Kodanima - captura 2">
 
 </div>
+
 [README.md](https://github.com/user-attachments/files/33752070/README.md)
 # Kodanima 2D
 
