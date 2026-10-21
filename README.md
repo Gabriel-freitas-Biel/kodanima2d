@@ -10,106 +10,100 @@
 
 </div>
 
-**Kodanima 2D** é um projeto de editor de desenho e animação 2D
-desenvolvido em C++ para Microsoft Windows. A proposta é oferecer uma
-interface nativa para desenhar, organizar quadros e trabalhar com uma
-linha do tempo de animação.
+# Kodanima 2D
 
-## Recursos
+**Kodanima 2D** is a 2D drawing and animation editor project developed in C++ for Microsoft Windows. Its goal is to provide a native interface for drawing, organizing frames, and working with an animation timeline.
 
--   Interface construída com APIs nativas do Windows.
--   Desenho e organização de quadros para animação 2D.
--   Linha do tempo para navegar e organizar quadros.
--   Suporte a imagens como PNG e BMP, conforme os recursos disponíveis
-    na versão.
--   Recursos de áudio e importação de mídia conforme a implementação
-    atual.
--   Suporte a caneta e mesa digitalizadora compatível, dependendo do
-    driver e da configuração.
--   Configurações e atalhos de teclado.
+## Features
 
-## Tecnologias
+- Interface built using native Windows APIs.
+- Drawing and frame organization for 2D animation.
+- Timeline for navigating and organizing frames.
+- Support for images such as PNG and BMP, depending on the features available in each version.
+- Audio features and media importing, depending on the current implementation.
+- Support for compatible styluses and graphics tablets, depending on drivers and configuration.
+- Settings and keyboard shortcuts.
 
--   **C++** --- linguagem principal.
--   **Win32 API** --- criação de janelas, controles, eventos e
-    integração com o Windows.
--   **GDI** --- desenho da interface e operações gráficas compatíveis.
--   **DirectX** --- APIs gráficas utilizadas nas partes do programa que
-    implementam aceleração gráfica; a disponibilidade depende do
-    sistema, hardware e drivers.
--   **Wintab** --- integração com mesas digitalizadoras compatíveis,
-    quando disponível.
--   **Instruções de CPU Intel e AMD** --- o programa pode detectar e
-    aproveitar conjuntos de instruções compatíveis, como MMX, SSE e AVX,
-    quando estiverem implementados e disponíveis no processador e no
-    sistema. Nem toda instrução é usada em todas as operações.
--   **MinGW-w64 / GCC (G++)** --- compilação.
--   **Geany** --- ambiente de desenvolvimento utilizado.
+## Technologies 
 
-## Sistemas operacionais
 
-O projeto é voltado para **Microsoft Windows**. A compatibilidade com
-Windows XP e versões posteriores depende das APIs utilizadas, das
-bibliotecas vinculadas e da configuração de compilação. Recursos mais
-recentes de DirectX, mídia ou instruções de CPU podem exigir versões
-específicas do Windows, hardware ou drivers compatíveis.
+<p align="center">
+  <a href="https://www.microsoft.com/">
+    <img src="assets/logos/microsoft.svg" height="42" alt="Microsoft">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/">
+    <img src="assets/logos/openai.svg" height="42" alt="OpenAI / ChatGPT">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.amd.com/">
+    <img src="assets/logos/amd.svg" height="42" alt="AMD">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.intel.com/">
+    <img src="assets/logos/intel.svg" height="42" alt="Intel">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.wacom.com/">
+    <img src="assets/logos/wacom.svg" height="42" alt="Wacom">
+  </a>
+</p>
 
-## Uso dos recursos do computador
+<h1 align="center">Kodanima 2D</h1>
 
-O Kodanima utiliza a **CPU** para processamento e cálculos, a **RAM**
-para dados temporários e os recursos gráficos disponíveis para desenhar
-a interface e processar conteúdo visual. Nas partes implementadas, o
-**DirectX pode permitir aceleração por GPU**. O desempenho depende do
-hardware, dos drivers, da versão do Windows e dos recursos efetivamente
-habilitados.
 
-A detecção de recursos do processador não significa que todas as
-instruções Intel ou AMD sejam utilizadas em todas as tarefas. O programa
-só deve executar instruções que sejam suportadas pelo processador e pelo
-ambiente de execução.
+- **C++** — primary programming language.
+- **Win32 API** — window creation, controls, events, and Windows integration.
+- **GDI** — interface drawing and compatible graphics operations.
+- **DirectX** — graphics APIs used in parts of the program that implement graphics acceleration. Availability depends on the operating system, hardware, and drivers.
+- **Wintab** — integration with compatible graphics tablets, when available.
+- **Intel and AMD CPU instructions** — the program can detect and take advantage of compatible instruction sets, such as MMX, SSE, and AVX, when implemented and supported by the processor and system. Not every instruction is used for every operation.
+- **MinGW-w64 / GCC (G++)** — compilation.
+- **Geany** — development environment used for the project.
 
-## Compilação
+## Operating Systems
 
-O projeto é desenvolvido para ser compilado com **MinGW-w64/G++**, por
-exemplo, usando o Geany. As bibliotecas e opções de linkagem podem
-variar conforme a versão do código.
+The project targets **Microsoft Windows**. Compatibility with Windows XP and later versions depends on the APIs used, linked libraries, and build configuration. Newer DirectX, media, or CPU instruction features may require specific Windows versions, compatible hardware, or drivers.
 
-1.  Instale uma distribuição MinGW-w64 compatível.
-2.  Abra o arquivo `.cpp` no Geany.
-3.  Confira as opções de compilação e linkagem exigidas pelo código
-    atual.
-4.  Compile e teste no Windows de destino.
+## Computer Resource Usage
 
-O comando de compilação pode variar entre versões do projeto.
+Kodanima uses the **CPU** for processing and calculations, **RAM** for temporary data, and available graphics resources to draw the interface and process visual content. In implemented components, **DirectX may enable GPU acceleration**. Performance depends on the hardware, drivers, Windows version, and features actually enabled.
 
-## Como começar
+Detecting processor capabilities does not mean that every Intel or AMD instruction is used for every task. The program should execute only instructions supported by the processor and runtime environment.
 
-1.  Baixe ou clone este repositório.
-2.  Abra o código-fonte no Geany ou em outro editor compatível com C++.
-3.  Compile com as dependências correspondentes à versão.
-4.  Execute o programa e teste os recursos disponíveis.
+## Building the Project
 
-## Limitações e compatibilidade
+The project is designed to be compiled using **MinGW-w64/G++**, for example, through Geany. Libraries and linker options may vary depending on the code version.
 
-O projeto está em desenvolvimento. Nem todo formato de mídia ou recurso
-planejado necessariamente está concluído ou disponível em todas as
-versões. A aceleração gráfica, o suporte à mesa digitalizadora e a
-exportação de mídia dependem da implementação e do ambiente.
+1. Install a compatible MinGW-w64 distribution.
+2. Open the `.cpp` file in Geany.
+3. Check the compilation and linking options required by the current source code.
+4. Compile and test the program on the target Windows system.
 
-## Relatar problemas
+The build command may vary between project versions.
 
-Ao reportar um erro, informe:
+## Getting Started
 
--   versão do Windows;
--   processador (Intel ou AMD e modelo, se souber);
--   compilador utilizado;
--   comando de compilação;
--   mensagem completa do erro;
--   etapas necessárias para reproduzir o problema.
+1. Download or clone this repository.
+2. Open the source code in Geany or another C++-compatible editor.
+3. Compile it with the dependencies required by the corresponding version.
+4. Run the program and test the available features.
 
-## Licença
+## Limitations and Compatibility
 
-Este projeto é distribuído sob os termos da **GNU General Public License
-v3.0 (GPL-3.0)**. Consulte o arquivo `LICENSE` do repositório para ver o
-texto completo da licença. Se ele ainda não existir, adicione uma cópia
-oficial da GPL-3.0 antes de publicar o repositório como licenciado.
+The project is under development. Not every planned media format or feature is necessarily complete or available in every version. Graphics acceleration, graphics tablet support, and media export depend on the implementation and the runtime environment.
+
+## Reporting Issues
+
+When reporting a bug, please include:
+
+- Windows version.
+- Processor (Intel or AMD and model, if known).
+- Compiler used.
+- Build command.
+- Full error message.
+- Steps required to reproduce the issue.
+
+## License
+
+This project is distributed under the terms of the **GNU General Public License v3.0 (GPL-3.0)**. See the repository's `LICENSE` file for the full license text. If the file does not yet exist, add an official copy of the GPL-3.0 before publishing the repository as licensed under this agreement.
