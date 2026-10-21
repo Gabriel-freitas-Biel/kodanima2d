@@ -10,9 +10,6 @@
 
 </div>
 
-[README.md](https://github.com/user-attachments/files/33752070/README.md)
-# Kodanima 2D
-
 **Kodanima 2D** é um projeto de editor de desenho e animação 2D
 desenvolvido em C++ para Microsoft Windows. A proposta é oferecer uma
 interface nativa para desenhar, organizar quadros e trabalhar com uma
