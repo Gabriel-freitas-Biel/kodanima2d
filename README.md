@@ -78,7 +78,22 @@ The build command may vary between project versions.
 
 The project is under development. Not every planned media format or feature is necessarily complete or available in every version. Graphics acceleration, graphics tablet support, and media export depend on the implementation and the runtime environment.
 
+## 🔒 Privacy & Security
 
+This application is written in **C++**, which requires low-level APIs to ensure maximum performance, efficiency, and resource control.
+
+We want to make it completely clear that **this software is 100% legitimate**:
+* **Zero Data Collection:** The app does **not** collect, store, or transmit any of your personal or sensitive information.
+* **No Internet Connection:** The program runs entirely locally and **does not even connect to the internet**.
+* **Full Transparency:** All source code and every function in the application are open for anyone to inspect. You are free to audit the code and verify for yourself that it is completely clean.
+
+### Technologies
+The project integrates robust and well-established libraries such as **FFmpeg** and **VLC**, resulting in a fast, reliable, and powerful application.
+
+### About Authentication
+As this is an independent project with no financial backing at the moment, we do not use commercial code-signing certificates or paid authentication services. However, we stand by the integrity of our work and welcome the community to review the source code.
+
+Thank you for your attention and trust!
 
 ## License
 
